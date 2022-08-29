@@ -8,11 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-<<<<<<< HEAD
-[Index Page](./wireframe-images/create-opportunity-form-page.png)
-=======
-[Index Page](./wireframe-images/create-opportunity-form-page.png)
->>>>>>> a138290964d39ac4c164f587bbb690f86ba1ee7d
+[Index Page](/wireframe-images/create-opportunity-form-page.png)
+
 
 
 ### Project Tracker
